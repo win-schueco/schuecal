@@ -1,0 +1,7 @@
+1. First you need to download GitHub Desktop 
+     Link : https://desktop.github.com/
+2. Then clone the repository. 
+3. Push .gitattributes file.
+     Link : https://drive.google.com/file/d/1NGV6...
+4. Copy and paste the files in that folder.
+5. Commit and Push.
